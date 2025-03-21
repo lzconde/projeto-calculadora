@@ -16,7 +16,7 @@
     </div>
 
     <div class="result">
-      <h3>Resultado: <span>{{ resultado() }}</span></h3>
+      <h3>Resultado: <span>{{ resultado }}</span></h3>
     </div>
   </div>
 </div>
